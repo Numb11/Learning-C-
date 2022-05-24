@@ -4,7 +4,7 @@ int main()
 {   
     int wholenum = 1; //An integer
     float floatnum = 1.32; //Floaitng point number
-    double doublenum = 1.50; //Floating point number
+    double doublenum = 1.50; //Floating point number, more precise as it cna have 15 values rather than 7
     bool boolean = true; //Boolean one or two values, True or False
     string text = "Hello"; //String(concatenation of characters)
     const int num = 10; //Constant declaration(Read Only)
